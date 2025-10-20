@@ -10,22 +10,22 @@ mvn test -Dspring.profiles.active=h2
 # Comandos Básicos
 
 1. mvn clean
-Elimina la carpeta target/ (limpia el proyecto).
+- Elimina la carpeta target/ (limpia el proyecto).
 
 2. mvn compile
-Compila el código fuente (src/main/java).
+- Compila el código fuente (src/main/java).
 
 3. mvn test
-Compila y ejecuta las pruebas unitarias (src/test/java).
+- Compila y ejecuta las pruebas unitarias (src/test/java).
 
 4. mvn package
-Compila, prueba y empaqueta el proyecto (JAR, WAR, etc.).
+- Compila, prueba y empaqueta el proyecto (JAR, WAR, etc.).
 
 5. mvn install
-Empaqueta y lo instala en el repositorio local de Maven (~/.m2/repository).
+- Empaqueta y lo instala en el repositorio local de Maven (~/.m2/repository).
 
 6. mvn deploy
-Despliega el artefacto en un repositorio remoto (requiere configuración en pom.xml)
+- Despliega el artefacto en un repositorio remoto (requiere configuración en pom.xml)
 
 
 # Ciclo de Vida Común (combinaciones)
