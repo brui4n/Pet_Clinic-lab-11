@@ -14,3 +14,11 @@ VALUES
 ('Freddy', '2000-03-09', 5, 9),
 ('Lucky', '2000-06-24', 2, 10),
 ('Sly', '2002-06-08', 1, 10);
+
+
+INSERT INTO clients (nombre, correo, sexo) VALUES ('Bryan Coronel', 'bryan@gmail.com', 'M');
+INSERT INTO clients (nombre, correo, sexo) VALUES ('Carla Mendoza', 'carla@gmail.com', 'F');
+INSERT INTO clients (nombre, correo, sexo) VALUES ('Luis Torres', 'luis@gmail.com', 'M');
+INSERT INTO clients (nombre, correo, sexo) VALUES ('Ana Rojas', 'ana@gmail.com', 'F');
+INSERT INTO clients (nombre, correo, sexo) VALUES ('Pedro Quispe', 'pedro@gmail.com', 'M');
+
