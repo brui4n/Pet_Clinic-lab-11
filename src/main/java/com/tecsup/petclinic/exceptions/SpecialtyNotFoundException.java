@@ -1,5 +1,5 @@
 package com.tecsup.petclinic.exceptions;
 
-public class SpecialityNotFoundException {
+public class SpecialtyNotFoundException {
     
 }

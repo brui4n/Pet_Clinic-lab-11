@@ -1,5 +1,5 @@
 package com.tecsup.petclinic.entities;
 
-public class Speciality {
+public class Specialty {
     
 }

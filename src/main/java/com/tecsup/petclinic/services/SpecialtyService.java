@@ -1,5 +1,5 @@
 package com.tecsup.petclinic.services;
 
-public class SpecialityServiceImpl {
+public class SpecialtyService {
     
 }
