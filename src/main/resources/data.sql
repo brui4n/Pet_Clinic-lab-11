@@ -22,3 +22,6 @@ INSERT INTO clients (nombre, correo, sexo) VALUES ('Luis Torres', 'luis@gmail.co
 INSERT INTO clients (nombre, correo, sexo) VALUES ('Ana Rojas', 'ana@gmail.com', 'F');
 INSERT INTO clients (nombre, correo, sexo) VALUES ('Pedro Quispe', 'pedro@gmail.com', 'M');
 
+INSERT INTO specialties (name, description) VALUES ('Radiology', 'Specialty focused on diagnostic imaging.');
+INSERT INTO specialties (name, description) VALUES ('Surgery', 'Specialty for surgical procedures.');
+INSERT INTO specialties (name, description) VALUES ('Dentistry', 'Specialty focused on oral health.');
